@@ -1,0 +1,9 @@
+package Exception_pro1;
+
+public class MainAccept extends  user_details {
+	public static void main(String[] args) {
+		MainAccept obj=new MainAccept();
+		obj.accept();
+	}
+
+}
